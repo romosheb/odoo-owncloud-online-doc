@@ -6,4 +6,4 @@ This documentation can be viewed at: http://www.kuzmiq.com
 
 The application can be purchased from: https://www.odoo.com/apps/modules/9.0/owncloud/
 
-ray.omoshebi@gmail.com
+romoshebi@kuzmiq.com
